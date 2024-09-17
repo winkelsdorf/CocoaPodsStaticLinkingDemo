@@ -1,0 +1,6 @@
+framework module Pods_CocoaPodsStaticLinkingDemo {
+  umbrella header "Pods-CocoaPodsStaticLinkingDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
