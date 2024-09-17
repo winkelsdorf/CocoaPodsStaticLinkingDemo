@@ -15,7 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
                 .padding()
             
-            Text("Hello, world from Internal Pod!")
+            Text("Hello from internal Pod!")
         }
         .padding()
     }

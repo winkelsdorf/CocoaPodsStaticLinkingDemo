@@ -1,0 +1,10 @@
+platform :ios, '16.0'
+
+# use_frameworks!
+use_frameworks! :linkage => :static
+install! 'cocoapods'
+
+target 'CocoaPodsStaticLinkingDemo' do
+  # Pods for CocoaPodsStaticLinkingDemo
+  pod 'InternalTestPod', :path => '../InternalTestPod/InternalTestPod.podspec'
+end

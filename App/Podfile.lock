@@ -1,0 +1,16 @@
+PODS:
+  - InternalTestPod (1.0.0)
+
+DEPENDENCIES:
+  - InternalTestPod (from `../InternalTestPod/InternalTestPod.podspec`)
+
+EXTERNAL SOURCES:
+  InternalTestPod:
+    :path: "../InternalTestPod/InternalTestPod.podspec"
+
+SPEC CHECKSUMS:
+  InternalTestPod: f55e1a2fad699142ba0329e818697c0061b18023
+
+PODFILE CHECKSUM: a8aa78ba0b29350a2828b5b6982881bc915483ed
+
+COCOAPODS: 1.15.2
